@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Step:1 Snapshot Testing. Unit Test Snapshot 1`] = `
+<div>
+  <form
+    className=""
+  >
+    <div
+      className="form-group row"
+    >
+      <label
+        className="form-label col-form-label col-sm-2"
+      >
+        Email
+      </label>
+      <div
+        className="col-sm-10"
+      >
+        <input
+          className="form-control"
+          id="formHorizontalEmail"
+          name="email"
+          onChange={[Function]}
+          placeholder="Email"
+          type="email"
+        />
+      </div>
+    </div>
+    <div
+      className="form-group row"
+    >
+      <label
+        className="form-label col-form-label col-sm-2"
+      >
+        Password
+      </label>
+      <div
+        className="col-sm-10"
+      >
+        <input
+          className="form-control"
+          id="formHorizontalPassword"
+          name="password"
+          onChange={[Function]}
+          placeholder="Password"
+          type="password"
+        />
+      </div>
+    </div>
+    <div
+      className="form-group row"
+    >
+      <div
+        className="col-sm-10 offset-sm-2"
+      >
+        <div
+          className="form-check"
+        >
+          <input
+            className="form-check-input"
+            disabled={false}
+            id="formHorizontalCheck"
+            name="remember"
+            onChange={[Function]}
+            type="checkbox"
+            value={false}
+          />
+          <label
+            className="form-check-label"
+            htmlFor="formHorizontalCheck"
+            title=""
+            type="checkbox"
+          >
+            Remember me
+          </label>
+        </div>
+      </div>
+    </div>
+    <div
+      className="form-group row"
+    >
+      <div
+        className="col-sm-10 offset-sm-2"
+      >
+        <button
+          className="btn btn-primary"
+          controlId="buttonSign"
+          disabled={false}
+          onClick={[Function]}
+          type="button"
+        >
+          Sign in
+        </button>
+      </div>
+    </div>
+  </form>
+  <div
+    id="childrean"
+  >
+    <div
+      id="child"
+    >
+      
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Step:1 Snapshot Testing. Unit Test Snapshot 2`] = `"body"`;
